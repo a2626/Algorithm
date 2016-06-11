@@ -35,12 +35,8 @@
 
 - [ArrayList](JavaDatastructures/ArrayList.md)
 - [Stack](JavaDatastructures/Stack.md)
-- [Map](JavaDatastructures/Map.md)
-
-## 链表
-
-## 树
-
-## 图
+- [HashMap](JavaDatastructures/HashMap.md)
+- [TreeMap](JavaDatastructures/TreeMap.md)
+- [Queue](JavaDatastructures/Queue.md)
 
 
