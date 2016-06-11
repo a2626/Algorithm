@@ -5,24 +5,13 @@
 
 ## 排序算法
 
-### 交换排序
-
-- [冒泡排序](sort/BubbleSort.md)
-- [快速排序](sort/QuickSort.md)
-
-### 选择排序
-
-- [简单选择排序](sort/SelectionSort.md)
-- [堆排序](sort/HeapSort.md)
-
-### 插入排序
-
-- [直接插入排序](sort/DirectInsertionSort.md)
-- [二分法插入排序](sort/DichotomySort.md)
-- [希尔排序](sort/ShellSort.md)
-
-### 其他排序
-
+- [交换排序 - 冒泡排序](sort/BubbleSort.md)
+- [交换排序 - 快速排序](sort/QuickSort.md)
+- [选择排序 - 简单选择排序](sort/SelectionSort.md)
+- [选择排序 - 堆排序](sort/HeapSort.md)
+- [插入排序 - 直接插入排序](sort/DirectInsertionSort.md)
+- [插入排序 - 二分法插入排序](sort/DichotomySort.md)
+- [插入排序 - 希尔排序](sort/ShellSort.md)
 - [归并排序](sort/MergeSort.md)
 - [基数排序](sort/RadixSort.md)
 

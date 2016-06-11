@@ -1,6 +1,6 @@
 # 如何用java实现一个ArrayList结构
 
-
+`List` 接口
 
 ```java
 public interface IList<T> {
@@ -31,6 +31,8 @@ public interface IList<T> {
     public int size();
 }
 ```
+
+**接口实现代码**
 
 ```java
 import java.util.Arrays;
@@ -186,3 +188,4 @@ public class ArrayList<T> implements IList<T> {
 }
 ```
 
+**其他实现：** [A simple ArrayList class in Java](http://codereview.stackexchange.com/questions/16371/a-simple-arraylist-class-in-java)
