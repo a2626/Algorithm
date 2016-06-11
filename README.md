@@ -31,6 +31,12 @@
 - [常用排序算法稳定性分析](sort/StabilityAnalysis.md)
 - [排序算法使用总结](sort/summary.md)
 
+## Java数据结构实现
+
+- [List实现]()
+- [Stack实现]()
+- [Map实现]()
+
 ## 链表
 
 ## 树
